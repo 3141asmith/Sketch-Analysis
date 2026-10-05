@@ -1,0 +1,5 @@
+data/*.ndjson
+data/*.part
+*.log
+data/*.ink.json
+data/*.analysis.json

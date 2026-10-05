@@ -1,0 +1,13 @@
+{
+  "name": "sketch-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "download:all": "node download.cjs",
+    "build:pages": "node build-pages.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
